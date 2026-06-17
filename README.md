@@ -15,9 +15,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+![3D Startup Website](./images/photoweb.jpg)
+![3D Startup Website](https://raw.githubusercontent.com/Seang556/3D-StarUpWeb/main/photoweb.jpg)
 
-https://github.com/Seang556/3D-
-![3D Startup Website]
-(./photoweb.jpg)StarUpWeb/blob/46ae6022aca22550174ed3eae9f0397204de9096/photoweb.jpg
-<img src="./photoweb.jpg" width="800">
-![3D Startup Website](https://raw.githubusercontent.com/Seang556/3D-StarUpWeb/46ae6022aca22550174ed3eae9f0397204de9096/photoweb.jpg)
